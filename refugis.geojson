@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "x": "326120", "y": "4740276", "Refugi": "Liat", "Cota": "2280", "Tipus": "guardat" }, "geometry": { "type": "Point", "coordinates": [ 0.873804669435134, 42.795299934962721 ] } },
-{ "type": "Feature", "properties": { "x": "408091", "y": "4682261", "Refugi": "Rebost", "Cota": "1640", "Tipus": "guardat" }, "geometry": { "type": "Point", "coordinates": [ 1.885204812674283, 42.287153486112878 ] } },
+{ "type": "Feature", "properties": { "x": "326120", "y": "4740276", "Refugi": "Liat", "Cota": "2280", "Tipus": "bivac" }, "geometry": { "type": "Point", "coordinates": [ 0.873804669435134, 42.795299934962721 ] } },
+{ "type": "Feature", "properties": { "x": "408091", "y": "4682261", "Refugi": "Rebost", "Cota": "1640", "Tipus": "bivac" }, "geometry": { "type": "Point", "coordinates": [ 1.885204812674283, 42.287153486112878 ] } },
 { "type": "Feature", "properties": { "x": "397751", "y": "4665691", "Refugi": "Rasos de Peguera", "Cota": "1805", "Tipus": "guardat" }, "geometry": { "type": "Point", "coordinates": [ 1.762730235917609, 42.136665871124983 ] } },
 { "type": "Feature", "properties": { "x": "381422", "y": "4669703", "Refugi": "Bages", "Cota": "1740", "Tipus": "guardat" }, "geometry": { "type": "Point", "coordinates": [ 1.564379865912255, 42.170487814521088 ] } },
 { "type": "Feature", "properties": { "x": "434937", "y": "4696565", "Refugi": "Tirapits", "Cota": "2618", "Tipus": "guardat" }, "geometry": { "type": "Point", "coordinates": [ 2.209179478944823, 42.418667602625092 ] } },
