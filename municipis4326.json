@@ -10800,7 +10800,7 @@
         "provinciaMunicat": "8000840003"
     },
     {
-        "bbox": "2.7996465739058465,42.02023713875214,2.8916728712314717,42.077660334035386",
+        "bbox": "2.79961,42.02032,2.86744861922805,42.05656",
         "codiCadastre": "17179",
         "comarca": "Gironès",
         "comarcaCodi": "20",
@@ -14218,5 +14218,20 @@
         "provincia": "Tarragona",
         "provinciaCodi": "43",
         "provinciaMunicat": "8004330008"
+    },
+    {
+        "bbox": "2.84613,42.03609,2.89249,42.07846",
+        "codiCadastre": "17179",
+        "comarca": "Gironès",
+        "comarcaCodi": "20",
+        "comarcaMunicat": "8102060009",
+        "id": 721,
+        "municipi": "Medinyà",
+        "municipiCadastre": "S JULIA RAMIS",
+        "municipiCodi": "179047",
+        "municipiMunicat": "1790470005",
+        "provincia": "Girona",
+        "provinciaCodi": "17",
+        "provinciaMunicat": "8001760009"
     }
 ]
