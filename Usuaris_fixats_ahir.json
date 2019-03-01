@@ -1,4 +1,4 @@
-{"cota": 981.7000122070312, "user": "jordifeu", "fixat": 0.650277777, "servei": "VRS_RTK_3_0", "latitut": 42.04466247558594, "longitut": 2.407601833343506},
+[{"cota": 981.7000122070312, "user": "jordifeu", "fixat": 0.650277777, "servei": "VRS_RTK_3_0", "latitut": 42.04466247558594, "longitut": 2.407601833343506},
 {"cota": 70.40699768066406, "user": "JoanAlbert", "fixat": 0.346388888, "servei": "VRS_RTK_3_0", "latitut": 41.09453201293945, "longitut": 1.1471242904663086},
 {"cota": 502.5459899902344, "user": "mperramon", "fixat": 0.897500000, "servei": "VRS_RTK_3_0", "latitut": 41.6733283996582, "longitut": 2.0563831329345703},
 {"cota": 270.02801513671875, "user": "instop29", "fixat": 0.138333333, "servei": "VRS_RTK_3_0", "latitut": 41.669288635253906, "longitut": 0.5988307595252991},
@@ -557,4 +557,4 @@
 {"cota": 309.70001220703125, "user": "ferranmontane2", "fixat": 0.941111111, "servei": "VRS_RTK_3_0", "latitut": 41.55076599121094, "longitut": 0.8269083499908447},
 {"cota": 178.11630249023438, "user": "uteblanes", "fixat": 0.433611111, "servei": "VRS_RTK_3_0", "latitut": 41.55439758300781, "longitut": 2.4349474906921387},
 {"cota": 1153.9000244140625, "user": "jordifeu", "fixat": 0.028055555, "servei": "VRS_RTK_3_0", "latitut": 42.08055114746094, "longitut": 2.408905029296875},
-{"cota": 21.179000854492188, "user": "instop176", "fixat": 0.397222222, "servei": "VRS_RTK_3_0", "latitut": 41.45138931274414, "longitut": 2.239306688308716}
+{"cota": 21.179000854492188, "user": "instop176", "fixat": 0.397222222, "servei": "VRS_RTK_3_0", "latitut": 41.45138931274414, "longitut": 2.239306688308716}]
