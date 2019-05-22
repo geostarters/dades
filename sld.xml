@@ -8,7 +8,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <sld:NamedLayer>
 <sld:Name>12_POBL_PA</sld:Name>
 <sld:UserStyle>
-<sld:Name>Default Styler</sld:Name>
+<sld:Name>12_POBL_PA</sld:Name>
 <sld:Title>GeoServer SLD Cook Book: Simple point</sld:Title>
 <sld:IsDefault>1</sld:IsDefault>
 <sld:FeatureTypeStyle>
